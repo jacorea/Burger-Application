@@ -7,9 +7,17 @@
 ## Styling Packages & Features
 
 - Using CSS Modules to do implement global css filing
+- yarn add prop-types
+- 
 
 ## Author
 
 Jonathan Corea
 
 ## Folder Structure
+- Containers: Hold class components
+    - BurgerBuilder
+- Components: 
+    - Burger
+        - Burger Ingredients 
+
